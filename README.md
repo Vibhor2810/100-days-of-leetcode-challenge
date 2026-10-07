@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0037-sudoku-solver](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0037-sudoku-solver) |
 ## Binary Search
 |  |
 | ------- |
@@ -15,4 +16,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0037-sudoku-solver) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
