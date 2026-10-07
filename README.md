@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0037-sudoku-solver) |
+| [0301-remove-invalid-parentheses](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0301-remove-invalid-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0037-sudoku-solver) |
+## String
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
