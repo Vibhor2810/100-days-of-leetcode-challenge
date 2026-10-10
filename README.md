@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0037-sudoku-solver) |
 | [0088-merge-sorted-array](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0088-merge-sorted-array) |
 | [2540-minimum-common-value](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2540-minimum-common-value) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [2540-minimum-common-value](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2540-minimum-common-value) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0088-merge-sorted-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -79,8 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
