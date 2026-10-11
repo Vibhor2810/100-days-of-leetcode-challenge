@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0088-merge-sorted-array) |
 | [2540-minimum-common-value](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2540-minimum-common-value) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
