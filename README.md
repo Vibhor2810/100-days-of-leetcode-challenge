@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0037-sudoku-solver) |
 | [2540-minimum-common-value](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2540-minimum-common-value) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0301-remove-invalid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2778-sum-of-squares-of-special-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
