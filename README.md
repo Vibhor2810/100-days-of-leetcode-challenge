@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2540-minimum-common-value) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0088-merge-sorted-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bracket Sequences
 |  |
 | ------- |
