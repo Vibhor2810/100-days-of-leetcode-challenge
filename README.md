@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0002-add-two-numbers) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
