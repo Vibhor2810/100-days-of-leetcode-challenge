@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0301-remove-invalid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0005-longest-palindromic-substring) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0088-merge-sorted-array) |
 | [2540-minimum-common-value](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2540-minimum-common-value) |
+| [0005-longest-palindromic-substring](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0005-longest-palindromic-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -117,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
