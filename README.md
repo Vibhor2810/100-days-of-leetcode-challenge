@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0037-sudoku-solver) |
 | [2540-minimum-common-value](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2540-minimum-common-value) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -107,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
