@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3886-sum-of-sortable-integers](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/3886-sum-of-sortable-integers) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
