@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3886-sum-of-sortable-integers](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/3886-sum-of-sortable-integers) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
