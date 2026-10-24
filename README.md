@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/0005-longest-palindromic-substring) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [2409-count-days-spent-together](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2409-count-days-spent-together) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3886-sum-of-sortable-integers](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/3886-sum-of-sortable-integers) |
+| [2409-count-days-spent-together](https://github.com/Vibhor2810/100-days-of-leetcode-challenge/tree/master/2409-count-days-spent-together) |
 ## Recursion
 |  |
 | ------- |
